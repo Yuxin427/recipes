@@ -1,0 +1,4 @@
+Please cite this project as:
+
+Yang, Yuxin. (2026). The Best Recipes Archive. GitHub Repository.
+https://github.com/Yuxin427/recipe
