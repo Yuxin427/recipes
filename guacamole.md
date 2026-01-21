@@ -1,3 +1,4 @@
+* put one avocado into a bowl.
 # Guacamole
 ## Ingredients
 * avocado
